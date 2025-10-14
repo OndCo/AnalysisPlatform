@@ -202,6 +202,8 @@ or you can just remove each data source setting from GUI.
 
 You can get some materials to use for educating AP+DN7.
 
-* [APDN7_eduational_materials.zip](https://github.com/apdn7/AnalysisPlatform/releases/download/v4.7.10/APDN7_educational_materials.zip): This file includes following materials
+* [APDN7_eduational_materials.zip](https://github.com/apdn7/AnalysisPlatform/releases/download/v4.8.1/APDN7_educational_materials.zip): This file includes following materials
   * Document (JA): Basic introduction of AP+DN7 and task description of hands-on data analysis
   * Toy data set (`instance folder` = Data pre-imported into AP+DN7)
+    * Compatible with AP+DN7 version 4.8.0 or later
+    * For the older versions (e.g. 4.7.10), use the [past data set](https://github.com/apdn7/AnalysisPlatform/releases/download/v4.7.10/APDN7_educational_materials.zip)

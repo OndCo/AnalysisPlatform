@@ -2,8 +2,6 @@
 
 ## 4.8.1
 
-This version includes new features 
-
 Core changes
 
 - Added Snowflake to data source
